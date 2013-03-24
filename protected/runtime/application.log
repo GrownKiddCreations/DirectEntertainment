@@ -1,0 +1,53 @@
+2013/03/23 02:05:17 [error] [php] Use of undefined constant message - assumed 'message' (C:\GrownKiddCreations\projects\DirectEntertainment\protected\controllers\GreetingController.php:9)
+Stack trace:
+#0 C:\Users\ThaKidd\workspace\yii\framework\web\CController.php(286): GreetingController->runAction()
+#1 C:\Users\ThaKidd\workspace\yii\framework\web\CController.php(265): GreetingController->runActionWithFilters()
+#2 C:\Users\ThaKidd\workspace\yii\framework\web\CWebApplication.php(282): GreetingController->run()
+#3 C:\Users\ThaKidd\workspace\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\Users\ThaKidd\workspace\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#5 C:\GrownKiddCreations\projects\DirectEntertainment\index.php(13): CWebApplication->run()
+REQUEST_URI=/directEnt/index.php?r=greeting
+in C:\GrownKiddCreations\projects\DirectEntertainment\protected\controllers\GreetingController.php (9)
+in C:\GrownKiddCreations\projects\DirectEntertainment\index.php (13)
+2013/03/23 02:05:57 [error] [php] Use of undefined constant message - assumed 'message' (C:\GrownKiddCreations\projects\DirectEntertainment\protected\controllers\GreetingController.php:9)
+Stack trace:
+#0 C:\Users\ThaKidd\workspace\yii\framework\web\CController.php(286): GreetingController->runAction()
+#1 C:\Users\ThaKidd\workspace\yii\framework\web\CController.php(265): GreetingController->runActionWithFilters()
+#2 C:\Users\ThaKidd\workspace\yii\framework\web\CWebApplication.php(282): GreetingController->run()
+#3 C:\Users\ThaKidd\workspace\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\Users\ThaKidd\workspace\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#5 C:\GrownKiddCreations\projects\DirectEntertainment\index.php(13): CWebApplication->run()
+REQUEST_URI=/directEnt/index.php?r=greeting
+in C:\GrownKiddCreations\projects\DirectEntertainment\protected\controllers\GreetingController.php (9)
+in C:\GrownKiddCreations\projects\DirectEntertainment\index.php (13)
+2013/03/23 02:05:59 [error] [php] Use of undefined constant message - assumed 'message' (C:\GrownKiddCreations\projects\DirectEntertainment\protected\controllers\GreetingController.php:9)
+Stack trace:
+#0 C:\Users\ThaKidd\workspace\yii\framework\web\CController.php(286): GreetingController->runAction()
+#1 C:\Users\ThaKidd\workspace\yii\framework\web\CController.php(265): GreetingController->runActionWithFilters()
+#2 C:\Users\ThaKidd\workspace\yii\framework\web\CWebApplication.php(282): GreetingController->run()
+#3 C:\Users\ThaKidd\workspace\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\Users\ThaKidd\workspace\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#5 C:\GrownKiddCreations\projects\DirectEntertainment\index.php(13): CWebApplication->run()
+REQUEST_URI=/directEnt/index.php?r=greeting
+in C:\GrownKiddCreations\projects\DirectEntertainment\protected\controllers\GreetingController.php (9)
+in C:\GrownKiddCreations\projects\DirectEntertainment\index.php (13)
+2013/03/23 02:06:00 [error] [php] Use of undefined constant message - assumed 'message' (C:\GrownKiddCreations\projects\DirectEntertainment\protected\controllers\GreetingController.php:9)
+Stack trace:
+#0 C:\Users\ThaKidd\workspace\yii\framework\web\CController.php(286): GreetingController->runAction()
+#1 C:\Users\ThaKidd\workspace\yii\framework\web\CController.php(265): GreetingController->runActionWithFilters()
+#2 C:\Users\ThaKidd\workspace\yii\framework\web\CWebApplication.php(282): GreetingController->run()
+#3 C:\Users\ThaKidd\workspace\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\Users\ThaKidd\workspace\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#5 C:\GrownKiddCreations\projects\DirectEntertainment\index.php(13): CWebApplication->run()
+REQUEST_URI=/directEnt/index.php?r=greeting
+in C:\GrownKiddCreations\projects\DirectEntertainment\protected\controllers\GreetingController.php (9)
+in C:\GrownKiddCreations\projects\DirectEntertainment\index.php (13)
+2013/03/24 06:54:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "page/view".' in C:\Users\ThaKidd\workspace\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Users\ThaKidd\workspace\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('page/view')
+#1 C:\Users\ThaKidd\workspace\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\GrownKiddCreations\projects\DirectEntertainment\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/directEnt/index.php?r=page/view&id=1
+HTTP_REFERER=http://localhost/directEnt/index.php?r=page/create
+---
